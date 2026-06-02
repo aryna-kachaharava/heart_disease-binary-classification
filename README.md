@@ -131,6 +131,6 @@ heart-disease-classification/
 
 ## Author
 
-Arina Kochegarova
+Aryna Kachaharava
 
 Aspiring Machine Learning Engineer
